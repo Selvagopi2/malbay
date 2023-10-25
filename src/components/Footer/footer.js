@@ -12,7 +12,7 @@ const Footer = () => {
                 <div className="row">
                     <div className="col-12 col-md-4 mb-3 para">
                         <h3 className='logoname'><Link to='/'>Malbay Express</Link></h3>
-                        <p>Malbay Express offers dependable, secure, and cost-effective MVP Private Car journeys from Singapore to Johor Bahru, Legoland Malaysia, and various other destinations within Malaysia.</p>  
+                        <p>At Malbay Express, we provide reliable, safe, and budget-friendly MVP Private Car services for travelers heading from Singapore to Johor Bahru, Legoland Malaysia, and numerous other destinations across Malaysia. Your trusted partner for seamless and cost-effective journeys.</p>  
                     </div>
                     <div className="col-12 col-md-4 mb-3">
                         <ul className="list-unstyled">
