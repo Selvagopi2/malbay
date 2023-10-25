@@ -11,7 +11,7 @@ const Fleets = () => {
         <div className="fleets-container">
             <div className="fleets-top-container">
                 <div className="ultimate-head-container">
-                 <h1 className="ultimate-heading">FIND THE ULTIMATE BARGAINS</h1>
+                 <h1 className="ultimate-heading">Embrace Luxury at Its Best</h1>
                  </div>
             </div>
             <ul className="fleet-list-container">
@@ -34,8 +34,7 @@ const Fleets = () => {
                     <div className="innova-heading-container">
                         <h1 className="innova-heading">Toyota Innova</h1>
                         <h4 className="innova-seats">7 SEATER LUXURY CAR</h4>
-                        <p className="innova-desc">The Toyota Innova is a basic size MPV popular as limos throughout Asia. The Innova provides strong frame and ladder framework, dependability, big seating capability and ease of service.
-                        The big travel luggage ability makes it great for airport transfers and cross border transfers in between Singapore and Malaysia.</p>
+                        <p className="innova-desc">The Toyota Innova, an esteemed MPV across Asia, boasts a robust frame, dependability, and generous seating. Its ample luggage space is perfect for airport and cross-border transfers between Singapore and Malaysia. Enjoy a blend of versatility, comfort, and reliability with the Innova, your choice for a premium travel experience.</p>
                         <ul className="car-details-list-container">
                             <li className="car-details-list-item">
                                 <h1>5</h1>
@@ -64,8 +63,7 @@ const Fleets = () => {
                     <div className="alphard-heading-container">
                         <h1 className="innova-heading">Elegant Transcendence</h1>
                         <h4 className="innova-seats">A Luxurious 8-Seater Journey</h4>
-                        <p className="innova-desc">The Elegant Transcendence is a premium 8-seater MPV that exudes opulence and comfort, redefining travel standards. Highly favored as the quintessential limousine across Asia, this vehicle seamlessly blends robust security features, exceptional spaciousness, and luxury, setting it apart from ordinary MPVs. Its capacious luggage capacity makes it the ultimate choice for airport transfers and hassle-free cross-border journeys between Singapore and Malaysia.
-                         Experience transcendent travel like never before with the Elegant Transcendence.</p>
+                        <p className="innova-desc">The Elegant Transcendence, a premium 8-seater MPV, redefines luxury and comfort in travel. A beloved choice throughout Asia, it marries robust security, opulent spaciousness, and lavishness, elevating travel experiences. Its generous luggage capacity ensures seamless airport transfers and effortless cross-border travel between Singapore and Malaysia. Discover travel excellence with the Elegant Transcendence.</p>
                         <ul className="car-details-list-container">
                             <li className="car-details-list-item">
                                 <h1>8</h1>
@@ -94,8 +92,7 @@ const Fleets = () => {
                     <div className="innova-heading-container">
                         <h1 className="innova-heading">Hyundai Starex</h1>
                         <h4 className="innova-seats" style={{marginBottom:"13px"}}>10 SEATER LUXURY CAR</h4>
-                        <p className="innova-desc">The Opulent Odyssey, embodied by the Hyundai Starex, 
-                        stands as the ultimate symbol of elegance, style, and versatility. With a capacity to comfortably seat up to 10 passengers or accommodate 7 passengers along with 2 substantial luggage pieces and 4 convenient hand-carry items, it redefines the concept of spacious travel. Whether for family adventures or transporting large groups, the Opulent Odyssey is your ideal choice, ensuring a luxurious and comfortable journey for all.</p>
+                        <p className="innova-desc">The Opulent Odyssey, personified by the Hyundai Starex, epitomizes elegance, style, and adaptability. It comfortably seats up to 10 passengers or accommodates 7 passengers with ample luggage space. Whether for family excursions or large group travel, it ensures a luxurious and comfortable journey for all, redefining spacious travel with style.</p>
                         <ul className="car-details-list-container">
                             <li className="car-details-list-item">
                                 <h1>10</h1>
