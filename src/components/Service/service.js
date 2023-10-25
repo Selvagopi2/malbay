@@ -19,34 +19,31 @@ const Service = () => {
     return(
         <div className="service-bg-container">
             <div className="luxury-car-container">
-                <h1 className="luxury-heading">Elevated Luxury Car Services</h1>
-                <p className="luxury-desc">Experience the epitome of luxury with Mundi. Enjoy unparalleled comfort, uncompromised safety,<br/> and a touch of excellence in every ride.</p>
+                <h1 className="luxury-heading">Premium Transportation Excellence</h1>
+                <p className="luxury-desc">Discover Unrivaled Luxury, Revel in unmatched comfort, unwavering safety, <br/> and a touch of excellence in every journey.</p>
                 <ul className="services-list-container">
                     <li className="services-list-item">
                         <FaUserAlt className="services-icon"/>
-                        <p className="services-desc">Elite Chauffeurs of Excellence</p>
+                        <p className="services-desc">Top-Notch Chauffeurs</p>
                     </li>
                     <li className="services-list-item">
                         <FaCalendarCheck className="services-icon"/>
-                        <p className="services-desc">Reliable Pick-Up Service: Punctuality Guaranteed</p>
+                        <p className="services-desc">Punctual Pick-Up Guarantee</p>
                     </li>
                     <li className="services-list-item">
                         <FaMedal className="services-icon"/>
-                        <p className="services-desc">Transparent Pricing: No Hidden Costs</p>
+                        <p className="services-desc">Honest Pricing: No Surprises</p>
                     </li>
                     <li className="services-list-item">
                         <AiFillCar className="services-icon"/>
-                        <p className="services-desc">Luxury Fleet: Latest Market Models</p>
+                        <p className="services-desc">Modern Luxury Fleet</p>
                     </li>
                 </ul>
             </div>
             <div className="airport-bg-container">
                 <div className="airport-transfer-container">
-                      <h1>Seamless Airport Transfers</h1>
-                      <p>Embark on a journey of comfort and safety with our chauffeured airport transfer services,
-                         tailored to both business and leisure travelers. Our dedicated operations department operates 24/7,
-                          ready to accommodate last-minute or pre-planned bookings for groups of any size. Choose Mundi for a 
-                          luxurious and secure journey to the airport, ensuring you arrive in style and peace of mind.
+                      <h1>Airport Transfers Made Easy</h1>
+                      <p>Celebrate Your Travels with Confidence and Convenience through MalBay Express transport solutions. Our 24/7 dedicated operations department ensures a seamless experience for business and leisure travelers alike, accommodating groups of any size. Opt for MalBay to guarantee a luxurious and secure journey to the airport, promising both style and serenity for your travels.
                         </p>
                     <button className="btn btn-info" onClick={handleLearnmore}>Learn more</button>
                 </div>
@@ -55,20 +52,15 @@ const Service = () => {
             <div className="privat-bg-container">
                 <img src={car1} alt="cars" style={{borderRadius:"10px"}} className="car-img"/>
                 <div className="private-transfer-container">
-                      <h1>Exclusive Ground Transportation for Private Aviation</h1>
-                      <p>Experience a level of ground transportation service like never before with Mundi,
-                         dedicated to serving the private aviation market. Our reach extends across private airfields throughout the U.S. and worldwide, where we designate a dedicated private aviation transportation specialist to each client. 
-                        Choose Mundi for seamless access to private airports and FBOs, delivered with our premium car service.</p>
+                      <h1>Premium Ground Transportation for Private Aviation</h1>
+                      <p>Celebrate Unmatched Ground Transportation with MalBay Express tansport solutions. Our global presence spans private airfields, where every client receives a dedicated private aviation specialist. Opt for MalBay Express to enjoy effortless access to private airports and FBOs, all enhanced by our premium car service.</p>
                         <button className="btn btn-info" onClick={handleLearnmore}>Learn more</button>
                 </div>
             </div>
             <div className="airport-bg-container">
                 <div className="airport-transfer-container">
-                      <h1>Flexible Hourly Charter</h1>
-                      <p>For any trip, whether it's a brief jaunt or an extended journey, 
-                        Mundi offers an adaptable hourly service. Have a chauffeur at your beck and call for as long as you require.
-                         No specific destination information is necessary to arrange this service.
-                         Simply provide your pick-up details and choose your travel stops while en route.</p>
+                      <h1>Hourly Charters to Fit Your Lifestyle</h1>
+                      <p>Experience unparalleled flexibility with MalBay's hourly services, perfect for any travel adventure, whether it's a short excursion or an extended voyage. Our chauffeur is at your service for as long as you need, without requiring specific destination information. Simply share your pick-up details, and during your journey, customize your travel stops according to your preferences. Your travel, your schedule, your way - that's the MalBay's promise.</p>
                          <button className="btn btn-info" onClick={handleLearnmore}>Learn more</button>
                 </div>
                 <img src={car2} alt="cars" style={{borderRadius:"10px"}} className="car-img" />
@@ -77,9 +69,8 @@ const Service = () => {
             <div className="extended-bg-container">
             <img src={car3} alt="cars" style={{borderRadius:"10px"}} className="car-img" />
                 <div className="private-transfer-container">
-                      <h1>Extended Excursions</h1>
-                      <p>Experience top-tier transportation services with Mundi on long-distance journeys from Miami to neighboring cities and regions. Whether it's for business purposes or leisurely exploration of tourist attractions and iconic locales, revel in the lap of luxury within our premium vehicles, accompanied by a private chauffeur.
-                         Every mile becomes a private retreat, allowing you to make the most of your travel in comfort and style.</p>
+                      <h1>Journeys Beyond the Ordinary</h1>
+                      <p>Discover the epitome of luxury in long-distance travel with MalBay, connecting Singapore to neighboring cities and regions. Whether your journey is for business or leisure, immerse yourself in a world of elegance aboard our premium vehicles, where a dedicated chauffeur ensures a smooth, worry-free experience. Every mile transforms into a private retreat, granting you the freedom to savor your travel in absolute comfort and style.</p>
                          <button className="btn btn-info" onClick={handleLearnmore}>Learn more</button>
                 </div>
               
