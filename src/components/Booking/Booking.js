@@ -29,7 +29,7 @@ export const Booking =()=>{
     return(
         <div style={{padding:'2% 6%'}}>
               <div className="form-container">
-         <h2>Get Your Instant Quote</h2>
+         <h2>Generate Your Speedy Estimate</h2>
              <form className="forminhome">
            <div className="row">
            <div className="col-12 mb-3">

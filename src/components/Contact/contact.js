@@ -16,20 +16,17 @@ const Contact = () => {
                 </div>
             </div>
             <div className="contactparas">
-                <h1>Malbay's Professional Car Service - Contact us</h1>
+                <h1>Get in Touch with Malbay's Professional Car Service</h1>
                 <h3>
-                    Malbay is dedicated to providing the highest-quality, on-time
-                    chauffeured global ground transportation service worldwide. Our
-                    chauffeur service will exceed your expectations in excellence and
-                    quality!
+                Malbay is unwavering in its commitment to delivering world-class, on-time global chauffeured ground transportation services. Our chauffeur service is designed to surpass your expectations, setting the benchmark for excellence and quality.
                 </h3>
             </div>
             <div className="contact-details">
                 <div className="contact-info">
-                    <h1>How can we assist you?</h1>
-                    <h3>Contact details for Malbay Express car services</h3><br/>
+                    <h1>Your Requests, Our Mission</h1>
+                    <h3>Reach Out to Malbay Express Car Services</h3><br/>
                     <h2><FontAwesomeIcon icon={faPhone} /><span style={{color:'#333333',fontSize:'20px',marginLeft:'10px'}}>+++123456789</span> </h2>
-                    <h2> <FontAwesomeIcon icon={faEnvelope} /> <span style={{color:'#333333',fontSize:'20px',marginLeft:'10px'}}>info@email.com</span></h2>
+                    <h2> <FontAwesomeIcon icon={faEnvelope} /> <span style={{color:'#333333',fontSize:'20px',marginLeft:'10px'}}>flynewtours@gmail.com</span></h2>
                 </div>
                 <div className="book-car-service">
                     <h3>Book your car service</h3>
