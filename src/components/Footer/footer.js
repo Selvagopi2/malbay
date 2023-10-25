@@ -16,18 +16,19 @@ const Footer = () => {
                     </div>
                     <div className="col-12 col-md-4 mb-3">
                         <ul className="list-unstyled">
-                            <li className='linksfooter'><Link to="/">Home</Link></li>
+                            <li className='linksfooter'><Link to="/">HOME</Link></li>
                             <li><Link to="/about">ABOUT</Link></li>
                             <li><Link to="/services">SERVICES</Link></li>
                             <li><Link to="/locations">LOCATIONS</Link></li>
                             <li><Link to="/fleets">FLEETS</Link></li>
                             <li><Link to="/pricing">PRICING</Link></li>
-                            <li><Link to="/contact">contact</Link></li>
+                            <li><Link to="/contact">CONTACT</Link></li>
                         </ul>
                     </div>
                     <div className="col-12 col-md-4 mb-3">
                         <p><FontAwesomeIcon icon={faPhone} className="me-2" />+(91)6369487527</p>
-                        <p><FontAwesomeIcon icon={faMapMarkerAlt} className="me-2" />22, teachers colony, Tirunelveli<br/>TamilNadu</p>
+                        <p><FontAwesomeIcon icon={faMapMarkerAlt} className="me-2" />316C Anchorvale Link 05 - 209 <br/>Anchorvale Gardens<br/>Singapore<br/>543316</p>
+                        <p><FontAwesomeIcon icon={faEnvelope} className="me-2" />flynewtours@gmail.com</p>
                     </div>
                 </div>
             </div>
