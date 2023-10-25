@@ -38,12 +38,9 @@ const Pricing = () => {
     return (
         <div className="pricing-bg-container">
             <div className="pricing-top-bg-container">
-                <h1 className="pricing-heading">UNBEATABLE AFFORDABILITY</h1>
+                <h1 className="pricing-heading">Budget-Friendly Excellence</h1>
                 <h4 className="pricing-desc">
-                    We take pride in offering the most unbeatable rates for your journeys
-                    between Singapore and Malaysia, departing from your chosen locations at
-                    your preferred times. Your cost-effective and convenient travel
-                    experience begins with us.
+                We are committed to providing you with the most competitive rates for your trips between Singapore and Malaysia, departing at your convenience from your selected locations. Your journey, cost-effective and convenient, commences with us.
                 </h4>
             </div>
             <ul className="pricing-list-container">
